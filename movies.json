@@ -1,0 +1,68 @@
+{
+    "movies": [
+        {
+            "title": "Star Wars: Episode I - The Phantom Menace",
+            "episode_number": "1",
+            "main_characters": ["Qui-Gon Jinn", "Obi-wan Kenobi"],
+            "description": "The evil",
+            "poster": "star.png",
+            "hero_image": "star2.png"
+        },
+        {
+            "title": "Star Wars: Episode 2",
+            "episode_number": "2",
+            "main_characters": ["Qui-Gon Jinn", "Obi-wan Kenobi"],
+            "description": "The evil",
+            "poster": "star.png",
+            "hero_image": "star2.png"
+        },
+        {
+            "title": "Star Wars: Episode 3",
+            "episode_number": "3",
+            "main_characters": ["Qui-Gon Jinn", "Obi-wan Kenobi"],
+            "description": "The evil",
+            "poster": "star.png",
+            "hero_image": "star2.png"
+        },
+        {
+            "title": "Star Wars: Episode I - The Phantom Menace",
+            "episode_number": "1",
+            "main_characters": ["Qui-Gon Jinn", "Obi-wan Kenobi"],
+            "description": "The evil",
+            "poster": "star.png",
+            "hero_image": "star2.png"
+        },
+        {
+            "title": "Star Wars: Episode I - The Phantom Menace",
+            "episode_number": "1",
+            "main_characters": ["Qui-Gon Jinn", "Obi-wan Kenobi"],
+            "description": "The evil",
+            "poster": "star.png",
+            "hero_image": "star2.png"
+        },
+        {
+            "title": "Star Wars: Episode I - The Phantom Menace",
+            "episode_number": "1",
+            "main_characters": ["Qui-Gon Jinn", "Obi-wan Kenobi"],
+            "description": "The evil",
+            "poster": "star.png",
+            "hero_image": "star2.png"
+        },
+        {
+            "title": "Star Wars: Episode I - The Phantom Menace",
+            "episode_number": "1",
+            "main_characters": ["Qui-Gon Jinn", "Obi-wan Kenobi"],
+            "description": "The evil",
+            "poster": "star.png",
+            "hero_image": "star2.png"
+        },
+        {
+            "title": "Star Wars: Episode I - The Phantom Menace",
+            "episode_number": "1",
+            "main_characters": ["Qui-Gon Jinn", "Obi-wan Kenobi"],
+            "description": "The evil",
+            "poster": "star.png",
+            "hero_image": "star2.png"
+        }
+    ]
+}

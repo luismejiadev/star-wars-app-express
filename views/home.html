@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <% include partials/head.html %>
+  </head>
+  <body>
+    <% include partials/header.html %>
+    <h1>This is the template for the home page</h1>
+
+    <p><%= title %></p>
+
+    <ul>
+        <% for (var i=0; i < movies.length; i++) { %>
+        <li><%= movies[i].title %></li>
+        <% } %>
+    </ul>
+
+    <% include partials/scripts.html %>
+</body></html>
